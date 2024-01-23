@@ -49,5 +49,12 @@ dependencies:
   loading_animation_widget: 1.2.0+4
 ```
 
+### Menambahkan Internet Permission
+
+```XML
+<uses-permission android:name="android.permission.INTERNET" />
+```
+
 ## Demo
+
 https://drive.google.com/file/d/1GkPDQ46Wxw7ZPIaVEdJfEPWZ1nerUvui/view?usp=sharing
